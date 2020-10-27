@@ -1,3 +1,4 @@
 pandas~=1.1.2
 python-telegram-bot~=12.8
 schedule~=0.6.0
+requests~=2.24.0
